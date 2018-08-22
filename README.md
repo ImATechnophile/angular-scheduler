@@ -1,5 +1,9 @@
+``` 
+Our AngularScheduler is built on latest version of Angular framework. i.e) Angular 6
 
-# AngularScheduler [Click here to see our app in action](https://imatechnophile.github.io/AngularScheduler/)
+```
+
+## AngularScheduler [Click here to see our app in action](https://imatechnophile.github.io/AngularScheduler/)
 
   * AngularScheduler is to Schedule your life goals in a list of a bucket.
   * If you want to add the life goal to your bucket list, our AngularScheduler provides a form in the same grid. Just fill what do you want to accomplish in your life?
