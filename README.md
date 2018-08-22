@@ -3,7 +3,7 @@
 
   * AngularScheduler is to Schedule your life goals in a list of a bucket.
   * If you want to add the life goal to your bucket list, our AngularScheduler provides a form in the same grid. Just fill what do you want to accomplish in your life?
-  *A fter accomplishing a goal among several life goals in a list of a bucket. You can easily remove/delete that particular goal my simply clicking over.
+  * After accomplishing a goal among several life goals in a list of a bucket. You can easily remove/delete that particular goal my simply clicking over.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
