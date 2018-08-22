@@ -1,5 +1,5 @@
-[Click here to see our app in action](https://imatechnophile.github.io/AngularScheduler/)
-# AngularScheduler
+
+# AngularScheduler [Click here to see our app in action](https://imatechnophile.github.io/AngularScheduler/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
