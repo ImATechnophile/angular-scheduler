@@ -26,3 +26,29 @@
     </p>
   </div>
 </div>
+  <!--Testing loop and condition-->
+<!--<div *ngIf="hello">
+    <div *ngFor="let name of array">
+    <li>{{name}}</li>
+    </div>
+</div>-->
+
+<!--The variable's scope is limited to a single instance of the repeated template. You can use the same variable name again in the definition of other structural directives.-->
+<!--<div *ngIf="hello">
+  <div *ngFor="let name of array2">
+    <li>{{name}}</li>
+  </div>
+</div>-->
+
+<!--Prohibiting multiple structural directives makes them moot. There's an easy solution for this use case: put the *ngIf on a container element that wraps the *ngFor element. One or both elements can be an ng-container so you don't have to introduce extra levels of HTML.-->
+<!--<ng-container *ngIf="hello">
+  <ng-container *ngFor="let name of array2">
+    <li>{{name}}</li>
+  </ng-container>
+</ng-container>-->
+
+<!--If there is no structural directive and you merely wrap some elements in a <ng-template>, those elements disappear.-->
+
+  <!--<ng-template>
+    <h1>God is good</h1>
+  </ng-template>-->

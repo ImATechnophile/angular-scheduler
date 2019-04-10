@@ -37,6 +37,13 @@ export class HomeComponent implements OnInit {
   goalText = 'My first life goal';
   goals = [];
 
+  /*Testing loop and condition*/
+  /*array = ["saravana","prakash","kumar","David","allen"];*/
+ /* hello = true;
+
+  array2 = ["saravana","prakash","kumar","David","allen"];*/
+
+
   constructor( private _data: DataService) { }
 
   ngOnInit() {
