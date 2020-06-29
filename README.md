@@ -8,7 +8,14 @@
  ``` 
 Our angular-scheduler is built on latest version of Angular framework. i.e) Angular 6
 ```
- 
+
+## UI pages:
+* Initial view:
+![scheduler-demo](https://user-images.githubusercontent.com/35361302/86014499-0b630980-ba3e-11ea-8f23-ee688b5deeef.png)
+* After adding goals to the list:
+![schedular-demo-2](https://user-images.githubusercontent.com/35361302/86014512-0f8f2700-ba3e-11ea-8b6a-ca0b265ae40c.png)
+* After routing (about page):
+![schedular-demo-3](https://user-images.githubusercontent.com/35361302/86014524-11f18100-ba3e-11ea-87aa-3f57d66f7247.png)
 ## Knowledge gained from this app.
 
 - [x] Generating Components
