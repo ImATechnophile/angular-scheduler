@@ -11,13 +11,13 @@ Our angular-schedular is built on latest version of Angular framework. i.e) Angu
  
 ## Knowledge gained from this app.
 
-- [ ] Generating Components
-- [ ] Templating and Styling
-- [ ] Interpolation, Property and Event binding.
-- [ ] Animation
-- [ ] Routing
-- [ ] Services
-- [ ] Basics of Angular CLI
+- [x] Generating Components
+- [x] Templating and Styling
+- [x] Interpolation, Property and Event binding.
+- [x] Animation
+- [x] Routing
+- [x] Services
+- [x] Basics of Angular CLI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
