@@ -1,4 +1,4 @@
-## angular-scheduler [Click here to see our app in action](https://imatechnophile.github.io/angular-scheduler/)
+## angular-scheduler
 
   * Main purpose of this Web App is to learn the **basics** of *Angular 6*. 
   * angular-scheduler is to Schedule your life goals in a list of a bucket.
