@@ -1,12 +1,12 @@
-## AngularScheduler [Click here to see our app in action](https://imatechnophile.github.io/AngularScheduler/)
+## angular-schedular [Click here to see our app in action](https://imatechnophile.github.io/angular-schedular/)
 
   * Main purpose of this Web App is to learn the **basics** of *Angular 6*. 
-  * AngularScheduler is to Schedule your life goals in a list of a bucket.
-  * If you want to add the life goal to your bucket list, our AngularScheduler provides a form in the same grid. Just fill what do you want to accomplish in your life?
+  * angular-schedular is to Schedule your life goals in a list of a bucket.
+  * If you want to add the life goal to your bucket list, our angular-schedular provides a form in the same grid. Just fill what do you want to accomplish in your life?
   * After accomplishing a goal among several life goals in a list of a bucket. You can easily remove/delete that particular goal my simply clicking over.
   
  ``` 
-Our AngularScheduler is built on latest version of Angular framework. i.e) Angular 6
+Our angular-schedular is built on latest version of Angular framework. i.e) Angular 6
 ```
  
 ## Knowledge gained from this app.

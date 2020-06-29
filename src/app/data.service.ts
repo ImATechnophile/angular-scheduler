@@ -9,6 +9,7 @@ export class DataService {
   goal = this.goals.asObservable();
   constructor() { }
   changeGoal(goal) {
+    console.log(goal);
     this.goals.next(goal);
   }
 }
